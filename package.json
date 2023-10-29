@@ -1,0 +1,24 @@
+{
+  "name": "khl_parser",
+  "version": "1.0.0",
+  "description": "Сеня просил сделать тест",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dee4kin/KHL_parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dee4kin/KHL_parser/issues"
+  },
+  "homepage": "https://github.com/Dee4kin/KHL_parser#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
